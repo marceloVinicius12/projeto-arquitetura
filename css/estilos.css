@@ -9,3 +9,6 @@ li{
     list-style: none; 
     display: inline;
 }
+.card-header{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
