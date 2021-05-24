@@ -9,15 +9,19 @@
        list-style: none; 
        display: inline;
    }
-   h1{
-
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-   }
    footer{
-    
     background-color: rgb(53, 71, 68);
  
  }
  
 
 
+h2{
+    font-family: unset;
+}
+h1{
+    font-family: monospace;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
