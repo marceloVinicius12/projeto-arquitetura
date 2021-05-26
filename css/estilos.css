@@ -13,7 +13,7 @@ li{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 footer{
-    
-   background-color: rgb(53, 71, 68);
-
+    border-radius:0% 0% 0% 0%;
+   background: linear-gradient(to  top, #be0abe , #07688f);
 }
+
