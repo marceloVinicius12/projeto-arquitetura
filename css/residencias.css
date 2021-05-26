@@ -13,11 +13,11 @@
 .text{
  text-decoration: none;
 }
-  footer{
-    
-    background-color: rgb(53, 71, 68);
- 
- }
+footer{
+  border-radius: 0% 20% 0% 20%;
+ background: rgb(104, 68, 163);
+}
+
  a{
    text-decoration: none;
  }

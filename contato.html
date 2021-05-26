@@ -12,7 +12,7 @@
   <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light justify-content-end">
         <div class="container text-center ">
-          <a class="navbar-brand"><img src="img/logo (2).png" alt=""></a>
+          <a class="navbar-brand"><img src="img/logo.png" alt=""></a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -44,13 +44,13 @@
       
       <form>
         <div class="container text-center  bg-light mt-5 " >
-          <div class="row">
+          <div class="row ">
           <h1>contatos</h1>
-          <div class=" col-lg-6 text-center fs-3">
+          <div class=" col-lg-6 col-sm-6 .col-3  text-center fs-3">
             <label for="nome">nome</label>
             <input type="name" class="form-control" id="nome" placeholder="">
           </div>
-          <div class="col-lg-6 text-center fs-3">
+          <div class="col-lg-6 col-sm-6 .col-3 text-center fs-3">
               <label for="inputEmail4">Email</label>
               <input type="email" class="form-control" id="inputEmail4" placeholder="">
             </div>
@@ -60,22 +60,27 @@
           <label for="number">telefone</label>
           <input type="numero" class="form-control" id="numero" placeholder="">
         </div>
-          <div class="col-lg-6  text-center fs-3 ">
-            <label for="inputAddress">Endereço</label>
-            <input type="text" class="form-control" id="inputAddress" placeholder="">
-          </div>
+        <div class="col-lg-6 text-center fs-3">
+          <label for="inputCity">Cidade</label>
+          <input type="text" class="form-control" id="Cidade">
+      </div>
           </div>
         <div class="row">
-        <div class="col-lg-6 text-center fs-3">
-            <label for="inputCity">Cidade</label>
-            <input type="text" class="form-control" id="Cidade">
-        </div>
+          <div class="col-lg-6 text-center fs-3">
+            <label>assunto </label>
+          <select class="form-select" aria-label="Default select example">
+            <option selected>especifique o tipo de serviço</option>
+            <option value="1">construção</option>
+            <option value="2">reformas </option>
+            <option value="3">duvidas</option>
+          </select>
+          </div>
         <div class="col-lg-6 text-center fs-3">
         <label for="nome">mensagem</label>
         <input type="text" class="form-control" id="mensagem" placeholder="">
         <div class="row mt-2">
         </div></div>
-        <button type="submit" class="btn btn-primary fs-5">cadastrar</button>  
+        <button type="submit" class="btn btn-primary fs-5">enviar</button>  
 <div class="mt-1"></div>
 <div class="row">
   <div class="redes text-center">

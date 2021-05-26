@@ -10,9 +10,10 @@
        display: inline;
    }
    footer{
-    background-color: rgb(53, 71, 68);
- 
- }
+    border-radius: 0% 20% 0% 20%;
+   background: rgb(104, 68, 163);
+}
+
 .zomm img {
  max-width: 100%;
  -moz-transition: all 0.3s;

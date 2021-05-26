@@ -14,10 +14,9 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
    }
    footer{
-    
-    background-color: rgb(53, 71, 68);
- 
- }
- 
+    border-radius: 0% 20% 0% 20%;
+   background: rgb(104, 68, 163);
+}
+
 
 
