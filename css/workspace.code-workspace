@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "..\\..\\teste-arq-php\\projeto-arquitetetura-php\\js"
+	}
+],
+  "settings": {
+    "liveServer.settings.port": 5501
+  }
+}
