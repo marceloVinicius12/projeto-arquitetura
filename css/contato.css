@@ -171,5 +171,8 @@ li{
     {
         width: 100%;
     }
-   
+    .container .contactinfo .box .text
+    {
+        font-size: 12px;
+    }
 }
